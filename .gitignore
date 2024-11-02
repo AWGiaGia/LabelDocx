@@ -1,0 +1,15 @@
+# no json or jsonl
+**/*.json*
+
+# no pdf
+**/*.pdf
+
+# no docx
+**/*.docx
+
+# no txt
+**/*.txt
+
+# no log or output log file
+**/*.log
+**/*.out
